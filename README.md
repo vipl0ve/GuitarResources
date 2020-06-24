@@ -48,3 +48,7 @@
 ## University Courses ##
 - [Berkely College of Music: How to Play Guitar (Coursera)](https://www.coursera.org/specializations/play-guitar)
 - [The University of Edinburgh: Fundamentals of Music Theory (Coursera)](https://www.coursera.org/learn/edinburgh-music-theory)
+
+## Free Resource ##
+- [PB Guitar Studio: Guitar Lesson PDF](http://www.pbguitarstudio.com/GuitarLessonPDF.html)
+
